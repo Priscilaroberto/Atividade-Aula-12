@@ -1,0 +1,15 @@
+C:\Users\aleca\source\repos\Atividade12\Atividade12\obj\Debug\net8.0-windows\Atividade12.Form1.resources
+C:\Users\aleca\source\repos\Atividade12\Atividade12\obj\Debug\net8.0-windows\Atividade12.FormCadastro.resources
+C:\Users\aleca\source\repos\Atividade12\Atividade12\obj\Debug\net8.0-windows\Atividade12.csproj.GenerateResource.cache
+C:\Users\aleca\source\repos\Atividade12\Atividade12\obj\Debug\net8.0-windows\Atividade12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleca\source\repos\Atividade12\Atividade12\obj\Debug\net8.0-windows\Atividade12.AssemblyInfoInputs.cache
+C:\Users\aleca\source\repos\Atividade12\Atividade12\obj\Debug\net8.0-windows\Atividade12.AssemblyInfo.cs
+C:\Users\aleca\source\repos\Atividade12\Atividade12\obj\Debug\net8.0-windows\Atividade12.csproj.CoreCompileInputs.cache
+C:\Users\Priscila\Documents\Felipe\atividade12 e 13 -\Atividade12\Atividade12\obj\Debug\net8.0-windows\Atividade12.Form1.resources
+C:\Users\Priscila\Documents\Felipe\atividade12 e 13 -\Atividade12\Atividade12\obj\Debug\net8.0-windows\Atividade12.FormCadastro.resources
+C:\Users\Priscila\Documents\Felipe\atividade12 e 13 -\Atividade12\Atividade12\obj\Debug\net8.0-windows\Atividade12.csproj.GenerateResource.cache
+C:\Users\Priscila\Documents\Felipe\atividade12 e 13 -\Atividade12\Atividade12\obj\Debug\net8.0-windows\Atividade12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priscila\Documents\Felipe\atividade12 e 13 -\Atividade12\Atividade12\obj\Debug\net8.0-windows\Atividade12.AssemblyInfoInputs.cache
+C:\Users\Priscila\Documents\Felipe\atividade12 e 13 -\Atividade12\Atividade12\obj\Debug\net8.0-windows\Atividade12.AssemblyInfo.cs
+C:\Users\Priscila\Documents\Felipe\atividade12 e 13 -\Atividade12\Atividade12\obj\Debug\net8.0-windows\Atividade12.csproj.CoreCompileInputs.cache
+C:\Users\Priscila\Documents\Felipe\atividade12 e 13 -\Atividade12\Atividade12\obj\Debug\net8.0-windows\Atividade12.csproj.AssemblyReference.cache
